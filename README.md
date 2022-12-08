@@ -18,7 +18,8 @@ A Front-end Web developer 🎯
 </div>
 
 <br/>
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=tokyonight&layout=compact)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=tokyonight&layout=compact)
 
 <br/><br/>
 🤝🏻 Connect with Me
