@@ -4,7 +4,7 @@ A Front-end Web developer 🎯
 - 🌈 Portfolio [iammohit.in](https://iammohit.in)
 - 👀 My interests are Flutter, Graphic designing & Video Editing
 - 🍀 Currently learning about nodejs & expressjs
-- 🏗️ Here is my [Projects](https://github.com/withmohitjoshi/Projects-Links)
+- 🏗️ Here is my [Projects](https://github.com/withmohitjoshi/live-projects)
 - ✉️ How to Contact me : [Instagram](https://www.instagram.com/flutter.web) [LinkedIn](https://www.linkedin.com/in/withmohitjoshi)
 - 😶‍🌫️ Something to remind me : I'm not sure how but I will 
 
