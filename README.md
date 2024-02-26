@@ -2,9 +2,8 @@
 A Front-end Web developer 🎯
 
 - 🌈 Portfolio [iammohit.in](https://iammohit.in)
-- 👀 My interests are Flutter, Graphic designing & Video Editing
-- 🍀 Currently learning about nodejs & expressjs
-- 🏗️ Here is my [Projects](https://github.com/withmohitjoshi/live-projects)
+- 👀 My interests are Flutter application development 
+- 🍀 Currently learning about dart, flutter, nodejs and RDBMS.
 - ✉️ How to Contact me : [Instagram](https://www.instagram.com/flutter.web) [LinkedIn](https://www.linkedin.com/in/withmohitjoshi)
 - 😶‍🌫️ Something to remind me : I'm not sure how but I will 
 
@@ -12,9 +11,10 @@ A Front-end Web developer 🎯
 <div style="display:flex; gap:16px">
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"/>
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss"/>
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"/>
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs"/>
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs"/>
 </div>
 
 <br/>
