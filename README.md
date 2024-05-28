@@ -1,5 +1,5 @@
 <div class="display: grid;justify-content: center;align-items: center;width:100%;">
-<img align="center" alt="Code" style="border-radius:0;margin-bottom:0.5rem;width:100%" src="./images/banner.gif" width="100%"/>
+<!-- <img align="center" alt="Code" style="border-radius:0;margin-bottom:0.5rem;width:100%" src="./images/banner.gif" width="100%"/> -->
 <!-- <img align="center" alt="Code" style="border-radius:0;margin-bottom:0.5rem;width:100%" src="https://i.pinimg.com/originals/50/1b/b2/501bb2f8db59ca0f3f34beed80ade6af.gif" /> -->
 </div>
 
@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact **I'm not sure how but I will**
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" width="350"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/withmohitjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withmohitjoshi" height="30" width="40" /></a> <a href="https://twitter.com/flutterwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flutterwebdev" height="30" width="40" /></a> <a href="https://instagram.com/flutter.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.web" height="30" width="40" /></a> </p>
 
@@ -37,13 +39,13 @@
 <a href="https://reactjs.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" align="center"/></a>
 <a href="https://nextjs.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" align="center"/></a>
 <a href="https://nodejs.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" align="center"/></a>
-<a href="https://expressjs.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" align="center"/></a>
+<a href="https://expressjs.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" align="center"/></a><br/><br/>
 <a href="https://tailwindcss.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" align="center"/></a>
 <a href="https://dart.dev" target="blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" align="center"/></a>
 <a href="https://flutter.dev" target="blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" align="center"/></a>
 <a href="https://firebase.google.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" align="center"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="withmohitjoshi" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="withmohitjoshi" /></p> -->
 
 <!-- <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withmohitjoshi&show_icons=true&locale=en" alt="withmohitjoshi" /></p> -->
