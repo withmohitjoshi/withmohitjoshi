@@ -8,25 +8,19 @@
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:1.5rem;filter: drop-shadow(0px 0px 6px rgb(0,0,0,0.3));" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" /> -->
 <img align="right" alt="Coding" width="400" style="border-radius:1.5rem;filter: drop-shadow(0px 0px 6px rgb(0,0,0,0.3));" src="./images/avatar.gif" />
 
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=withmohitjoshi.withmohitjoshi&left_color=red&left_text=Views"/></p>
+<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=withmohitjoshi.withmohitjoshi&left_color=red&left_text=Views"/></p>
 
-<p align="left"> 
-<a href="https://twitter.com/flutterwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/flutterwebdev?logo=twitter&style=for-the-badge" alt="flutterwebdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/flutterwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/flutterwebdev?logo=twitter&style=for-the-badge" alt="flutterwebdev" /></a></p>
 
 - 🔭 I’m currently working on **Flutter Blog Application**
-
 - 🌱 I’m currently learning **Flutter and Docker**
-
 - 👨‍💻 All of my projects are available at [**iammohit.in**](https://iammohit.in/)
-
 - 💬 Ask me about **NextJs and NodeJS**
-
 - 📫 How to reach me **withmohitjoshi@gmail.com**
-
 - 📄 Know about my experiences and achievements [**here**](https://iammohit.in/static/media/Mohit-Resume.7ed47b6fee1371ac420a.pdf)
-
 - ⚡ Fun fact **I'm not sure how but I will**
+
+<br/>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" width="350"/></p>
 
