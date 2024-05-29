@@ -22,7 +22,7 @@
 
 <br/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" width="350"/></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmohitjoshi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" width="350"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/withmohitjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withmohitjoshi" height="30" width="40" /></a> <a href="https://twitter.com/flutterwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flutterwebdev" height="30" width="40" /></a> <a href="https://instagram.com/flutter.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.web" height="30" width="40" /></a> </p>
