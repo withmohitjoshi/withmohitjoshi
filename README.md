@@ -2,7 +2,7 @@
   Mohit Joshi 🌟
 </h1>
 <h3 align="center">
-  I'm Software Engineer with 2 years of experience building web applications with ReactJS and Next.js.<br/> 
+  I'm UI Engineer with 2 years of experience building web applications with ReactJS and Next.js.<br/> 
   <a href="https://iammohit.in/MOHIT_JOSHI_CV.pdf">See my resume</a>
 </h3>
 <br/>
@@ -56,6 +56,6 @@ Github Stats<br />
 
 <h1>
 Statistics<br /><br />
-<img src="https://leetcard.jacoblin.cool/withmohitjoshi" width="41%" />
+<!-- <img src="https://leetcard.jacoblin.cool/withmohitjoshi" width="41%" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="30%"/>
 </h1>
