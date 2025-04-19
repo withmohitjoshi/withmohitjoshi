@@ -57,5 +57,6 @@ Github Stats<br />
 <h1>
 Statistics<br /><br />
 <!-- <img src="https://leetcard.jacoblin.cool/withmohitjoshi" width="41%" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="30%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="30%"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmohitjoshi&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
 </h1>
